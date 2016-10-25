@@ -7,6 +7,7 @@ public class Test_github_egit {
 		System.out.println("Feature 2");
 		System.out.println("Feature 3");
 		System.out.println("Feature 5 - master");
+		System.out.println("Feature 4 - branch1");
 
 	}
 
